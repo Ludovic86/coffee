@@ -4,10 +4,9 @@
 
 
 
-import javax.swing.JDialog;
+
 import javax.swing.JOptionPane;
-import javax.swing.UIManager;
-import static jdk.nashorn.tools.ShellFunctions.input;
+
 
 
 public class Principale {

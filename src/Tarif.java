@@ -1,9 +1,8 @@
 
 
-import java.awt.HeadlessException;
-import java.text.DecimalFormat;
+
 import javax.swing.JOptionPane;
-import javax.swing.UIManager;
+
 
 
 public class Tarif{
